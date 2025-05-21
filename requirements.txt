@@ -1,0 +1,4 @@
+echo "openai
+tiktoken
+faiss-cpu
+jieba" > requirements.txt
